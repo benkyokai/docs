@@ -48,3 +48,21 @@ http://westhillapps.blog.jp/archives/35679696.html
 
 iOSの実機にデプロイする方法はググるとすぐに出て来ます。特に難しくは無いです。
 https://unity3d.sakura.ne.jp/unity/unity-for-ios.html
+
+
+## 2018-1-31
+### 参加メンバー
+- @kunichiko
+- @schroedinger-tiger
+- @yabuchin
+- @hshiozawa
+- @genie-rx
+- @amake 🍰
+
+### 内容
+@yabuさんはタンクチュートリアルを途中まで進みました。
+
+@amakeは2D UFOチュートリアルを最後まで、Space Shooterを途中まで進みました。
+
+### 次回の目標
+チュートリアルをこなすだけではあまり進展がなさそうなので各自興味のある分野でやりたいことを決めて作業します。

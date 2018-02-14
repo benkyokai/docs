@@ -66,3 +66,19 @@ https://unity3d.sakura.ne.jp/unity/unity-for-ios.html
 
 ### 次回の目標
 チュートリアルをこなすだけではあまり進展がなさそうなので各自興味のある分野でやりたいことを決めて作業します。
+
+## 2018-2-14 💖
+### 参加メンバー
+- @kunichiko
+- @schroedinger-tiger
+- @yabuchin
+- @hshiozawa
+- @genie-rx
+- @amake
+
+### 内容
+@yabuさんはモデリングツールを調査しました。ツールの多さに圧倒されました。
+
+@schroedinger-tigerさんのディープな質問：「3Dモデリングの定義とは？」
+
+@amakeはSpace Shooterの拡張編まで完成させました。WebGL用にビルドして社内ウェブに配備してあります。ちょっとしたトリックで敵の動きが賢くなってゲーム性がぐんと上がるところがおもしろくてためになりました。
